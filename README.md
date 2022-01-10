@@ -41,13 +41,13 @@ When you complete all of the courses in the program, you'll earn a Certificate t
 | 01 - What is Data Science?  | [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) |
 | 02 - Tools for Data Science | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science) |
 | 03 - Data Science Methodology | [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) |
-| 04 -  | ----- |
-| 05 -  | ----- |
-| 06 -  | ----- |
-| 07 -  | ----- |
-| 08 -  | ----- |
-| 09 -  | ----- |
-| 10 -  | ----- |
+| 04 - Python for Data Science, AI & Development | [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science) |
+| 05 - Python Project for Data Science | [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science) |
+| 06 - Databases and SQL for Data Science with Python | [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science) |
+| 07 - Data Analysis with Python | [Data Analysis with Python](https://www.coursera.org/professional-certificates/ibm-data-science) |
+| 08 - Data Visualization with Python | [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science) |
+| 09 - Machine Learning with Python | [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science) |
+| 10 - Applied Data Science Capstone | [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science) |
 
 
 
