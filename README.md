@@ -38,9 +38,9 @@ When you complete all of the courses in the program, you'll earn a Certificate t
 
 | Course | Link |
 | ----- | ----- |
-| 01 -  | ----- |
-| 02 -  | ----- |
-| 03 -  | ----- |
+| 01 - What is Data Science?  | [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) |
+| 02 - Tools for Data Science | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science) |
+| 03 - Data Science Methodology | [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) |
 | 04 -  | ----- |
 | 05 -  | ----- |
 | 06 -  | ----- |
