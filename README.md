@@ -37,6 +37,7 @@ When you complete all of the courses in the program, you'll earn a Certificate t
 ## There are 10 Courses in this Professional Certificate
 
 | Course | Link |
+| ----- | ----- |
 | 01 -  | ----- |
 | 02 -  | ----- |
 | 03 -  | ----- |
