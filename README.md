@@ -32,3 +32,24 @@ Apply your skills with hands-on projects and build a portfolio that showcases yo
 ### Earn a Career Credential
 
 When you complete all of the courses in the program, you'll earn a Certificate to share with your professional network as well as unlock access to career support resources to help you kickstart your new career. Many Professional Certificates have hiring partners that recognize the Professional Certificate credential and others can help prepare you for a certification exam. You can find more information on individual Professional Certificate pages where it applies.
+
+
+## There are 10 Courses in this Professional Certificate
+
+| Course | Link |
+| 01 -  | ----- |
+| 02 -  | ----- |
+| 03 -  | ----- |
+| 04 -  | ----- |
+| 05 -  | ----- |
+| 06 -  | ----- |
+| 07 -  | ----- |
+| 08 -  | ----- |
+| 09 -  | ----- |
+| 10 -  | ----- |
+
+
+
+
+
+
